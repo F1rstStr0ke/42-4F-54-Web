@@ -95,7 +95,7 @@ I'm just publising it to see if it works as expected, it still has a lot of spac
 
 ## 0.0.1 (2019-08-02)
 
-### NEW
+### New
 
 ►Command
 + Added help
