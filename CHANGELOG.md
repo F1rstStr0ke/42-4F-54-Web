@@ -2,7 +2,7 @@
 website: https://github.com/F1rstStr0ke/42-4F-54-Web
 ---
 
-# LogLive
+# 42 4F 54
 
 ## 0.0.1 (2019-08-02)
 
