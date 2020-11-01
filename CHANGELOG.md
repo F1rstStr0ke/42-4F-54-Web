@@ -92,3 +92,12 @@ Fix CSS align issue of `date` string, add a default style for code blocks. 💅
 ### Initial
 
 I'm just publising it to see if it works as expected, it still has a lot of spaces to improve but I feel this version would work just fine.
+
+## 0.0.1 (2019-08-02)
+
+### NEW
+
+►Command
++ Added help
++ Added helpemoji
++ Added kick
